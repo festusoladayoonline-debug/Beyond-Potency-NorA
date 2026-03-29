@@ -1,4 +1,5 @@
-# Beyond Potency: A Multi-Target Lead Discovery Pipeline for *S. aureus* Efflux Pump Inhibitors
+# Beyond Potency: A Multi-Target Lead Discovery Pipeline for *S. aureus* Efflux Pump Inhibitors 
+## Path 1: Quantifying Ligand Efficiency and Cross-Target Activity of Staphylococcus aureus Efflux Pump Blockers.
 
 ![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg?style=for-the-badge&logo=python)
 ![RDKit](https://img.shields.io/badge/Chemoinformatics-RDKit-green.svg?style=for-the-badge)
